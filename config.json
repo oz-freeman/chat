@@ -1,0 +1,6 @@
+{
+    "certificate": "./key/cert.pem",
+    "key": "./key/key.pem",
+    "decipherivMethod": "aes-256-cbc",
+    "decipherivSecret": "upMOHi6OzkcSk7J6vSWquVk8ON2JJiS3"
+}
